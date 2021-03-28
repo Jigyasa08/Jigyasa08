@@ -3,7 +3,7 @@
 
 - 🌱 Currently looking for opportunities as a **MERN Stack** developer to help me learn and grow as a web developer.
 
-- 📫 How to reach me **jkaushik0802@gmail.com**
+- 📫 Reach me @ **jkaushik0802@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
